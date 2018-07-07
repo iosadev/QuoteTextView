@@ -6,7 +6,7 @@
 [原理：](http://blog.csdn.net/wanmeilang123/article/details/77898666)
 图文混排效果，自定义省略符号，图片文字水平对齐
 # 使用方法
-``` java
+``` java'''''''
 setText(String text);
 setQuoteTextView(String text, String imgLeft, String imgRight, String ellipse, int count);
 ```
